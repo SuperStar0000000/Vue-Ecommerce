@@ -1,8 +1,3 @@
-# vue e-commerce
-![Banner](https://github.com/destiny5420/vue-eCommerce/blob/develop/page_source/banner.png)
-
-## Demo
-[Z-Shop](https://destiny5420.github.io/vue-eCommerce)
 
 ## Introduction
 This is a exercise project for e-commerce, the following main feature:：
